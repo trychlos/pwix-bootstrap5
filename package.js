@@ -1,8 +1,8 @@
 Package.describe({
-    name: 'pwix:bootstrap5',
-    version: '1.0.1-rc',
+    name: 'pwix:ui-bootstrap5',
+    version: '2.0.0-rc',
     summary: 'A Meteor package which just includes Bootstrap 5 files and stylesheets',
-    git: 'https://github.com/trychlos/pwix-bootstrap5.git',
+    git: 'https://github.com/trychlos/pwix-ui-bootstrap5.git',
     documentation: 'README.md'
 });
 
@@ -15,7 +15,7 @@ Package.onUse( function( api ){
 Package.onTest( function( api ){
     configure( api );
     api.use( 'tinytest' );
-    api.use( 'pwix:bootstrap5' );
+    api.use( 'pwix:ui-bootstrap5' );
     api.mainModule( 'test/js/index.js' );
 });
 

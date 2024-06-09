@@ -1,4 +1,4 @@
-# pwix:bootstrap5
+# pwix:ui-bootstrap5
 
 ## What is it ?
 

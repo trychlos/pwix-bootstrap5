@@ -1,16 +1,16 @@
-# pwix:bootstrap5
+# pwix:ui-bootstrap5
 
 ## ChangeLog
 
-### 1.0.1-rc
+### 2.0.0-rc
 
-    Release date: 
+Release date: 
 
-    - 
+- Renaming to ui-bootstrap5, bumping major candidate version number
 
 ### 1.0.0
 
-Release date: 
+Release date: 2024- 6- 9
 
 - Initial release
 

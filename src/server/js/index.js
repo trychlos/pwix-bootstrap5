@@ -1,5 +1,5 @@
 /*
- * pwix:bootstrap5/src/server/js/index.js
+ * pwix:ui-bootstrap5/src/server/js/index.js
  */
 
 import '../../common/js/index.js';

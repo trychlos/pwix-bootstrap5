@@ -1,4 +1,4 @@
-# pwix:bootstrap5 - TODO
+# pwix:ui-bootstrap5 - TODO
 
 ## Summary
 

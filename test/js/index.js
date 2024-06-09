@@ -2,7 +2,7 @@
 import { Tinytest } from "meteor/tinytest";
 
 // Import and rename a variable exported by core-app.js.
-import { name as packageName } from "meteor/pwix:bootstrap5";
+import { name as packageName } from "meteor/pwix:ui-bootstrap5";
 
 // Write your tests here!
 // Here is an example.

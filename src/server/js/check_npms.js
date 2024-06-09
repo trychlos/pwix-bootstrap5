@@ -1,5 +1,5 @@
 /*
- * pwix:bootstrap5/src/server/js/check_npms.js
+ * pwix:ui-bootstrap5/src/server/js/check_npms.js
  */
 
 import { checkNpmVersions } from 'meteor/tmeasday:check-npm-versiomns';
@@ -14,5 +14,5 @@ checkNpmVersions({
     '@popperjs/core': '^2.11.0',
     'bootstrap': '^5.2.0',
 },
-    'pwix:bootstrap5'
+    'pwix:ui-bootstrap5'
 );

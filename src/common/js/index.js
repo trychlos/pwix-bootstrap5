@@ -1,3 +1,3 @@
 /*
- * pwix:bootstrap5/src/common/js/index.js
+ * pwix:ui-bootstrap5/src/common/js/index.js
  */
