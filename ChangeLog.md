@@ -6,7 +6,7 @@
 
     Release date: 
 
-    - 
+    - Add (missing) ecmascript dependency
 
 ### 2.0.0
 
