@@ -7,6 +7,7 @@
     Release date: 
 
     - Add (missing) ecmascript dependency
+    - Fix 'tmeasday:check-npm-versions' import
 
 ### 2.0.0
 
