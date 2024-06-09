@@ -2,9 +2,9 @@
 
 ## ChangeLog
 
-### 2.0.1-rc
+### 2.0.1
 
-    Release date: 
+    Release date: 2024- 6- 9
 
     - Add (missing) ecmascript dependency
     - Fix 'tmeasday:check-npm-versions' import
