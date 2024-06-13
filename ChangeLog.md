@@ -4,9 +4,9 @@
 
 ### 2.0.2-rc
 
-    Release date: 
+    Release date:
 
-    - 
+    - Update README
 
 ### 2.0.1
 
@@ -17,7 +17,7 @@
 
 ### 2.0.0
 
-Release date: 
+Release date:
 
 - Renaming to ui-bootstrap5, bumping major candidate version number
 

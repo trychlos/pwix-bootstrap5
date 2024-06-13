@@ -6,13 +6,29 @@ A Meteor package which just includes Bootstrap5 in your application.
 
 This prevent you to manually include each and every wanted Bootstrap5 file. Just `use` this package, and enjoy.
 
+## Installation
+
+This Meteor package is installable with the usual command:
+
+```sh
+    meteor add pwix:ui-bootstrap5
+```
+
+## Usage
+
+Nothing to do here, but do not forget to install the required NPM packages (see [below](#npm-peer-dependencies)).
+
+## Provides
+
+The required js and css files are automatically made available on the client.
+
 ## Configuration
 
 None at the moment.
 
 ## NPM peer dependencies
 
-Starting with v 0.3.0, and in accordance with advices from [the Meteor Guide](https://guide.meteor.com/writing-atmosphere-packages.html#peer-npm-dependencies), we no more hardcode NPM dependencies in the `Npm.depends` clause of the `package.js`. 
+Starting with v 0.3.0, and in accordance with advices from [the Meteor Guide](https://guide.meteor.com/writing-atmosphere-packages.html#peer-npm-dependencies), we no more hardcode NPM dependencies in the `Npm.depends` clause of the `package.js`.
 
 Instead we check npm versions of installed packages at runtime, on server startup, in development environment.
 
@@ -34,6 +50,10 @@ None at the moment.
 ## Cookies and comparable technologies
 
 None at the moment.
+
+## Issues & help
+
+In case of support or error, please report your issue request to our [Issues tracker](https://github.com/trychlos/pwix-ui-bootstrap5/issues).
 
 ---
 P. Wieser
